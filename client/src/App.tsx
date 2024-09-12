@@ -11,8 +11,9 @@ function App() {
           <div>
               {/* Navbar */}
           </div>
-
-          <div className="row">
+          
+          <div className="container-lg">
+              <div className="row">
               <div className="col">
                 <div className="my-2">
                     <label htmlFor="username" className="form-label">Username</label>
@@ -26,9 +27,10 @@ function App() {
                       <input type="password" className="password form-control"/>    
                     </div>
                 </div>
-                
+
               </div>
           </div>
+          </div> {/* end container-lg*/}
       </div>
     </>
   )
