@@ -32,6 +32,10 @@ function App() {
                       <input type="password" className="password form-control"/>    
                     </div>
                 </div>
+
+                <div className="col">
+                  <button type="button" className="btn button-primary" onClick={() => {}}>Log in</button> 
+                </div>
               </div> {/* end row */}
           </form> {/* end container-lg*/}
       </div>
