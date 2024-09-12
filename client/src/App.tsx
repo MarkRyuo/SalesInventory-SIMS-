@@ -19,8 +19,8 @@ function App() {
 
           <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
 
-          <div>
-              {/* Logo */} <img src="/icons8-box.svg" alt="Error Svg" />
+          <div className="row d-flex justify-content-center">
+              {/* Logo */} <img src="/icons8-box.svg" alt="Error Svg" width={"100px"} height={"100px"}/>
           </div>
           
           <form className="container-lg d-flex justify-content-center">
@@ -40,8 +40,12 @@ function App() {
                     </div>
                 </div>
 
-                <div className="col">
-                  <button type="button" className="btn btn-primary" onClick={() => {}}>Log in</button> 
+                <div className="col-12 my-2 d-flex justify-content-center">
+                  <button type="button" className="btn btn-primary btn-lg" onClick={() => {
+                      return {
+                        
+                      }
+                  }}>Log in</button> 
                 </div>
               </div> {/* end row */}
           </form> {/* end container-lg*/}
