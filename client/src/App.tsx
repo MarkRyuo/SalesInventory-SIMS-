@@ -1,5 +1,5 @@
 import { IoPersonOutline } from "react-icons/io5";
-
+import { PiPasswordFill } from "react-icons/pi";
 //* App - Login(---)
 
 import NavbarLogin from "./components/Navbar/NavbarLogin"
@@ -31,7 +31,7 @@ function App() {
                 
                 <div className="col-12">
                     <div className="mb-2">
-                      <label htmlFor="password" className="form-label">Password </label>
+                      <label htmlFor="password" className="form-label"><PiPasswordFill />Password </label>
                       <input type="password" className="password form-control"/>    
                     </div>
                 </div>
