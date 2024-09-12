@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-      <div className="container-lg">
-        
+      <div className="container-fluid">
+          
       </div>
     </>
   )
