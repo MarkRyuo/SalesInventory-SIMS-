@@ -20,7 +20,7 @@ function App() {
           <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
 
           <div>
-              {/* Logo */} <img src="/client/src/assets/icons8-box.svg" alt="Error Svg" />
+              {/* Logo */} <img src="/icons8-box.svg" alt="Error Svg" />
           </div>
           
           <form className="container-lg d-flex justify-content-center">
