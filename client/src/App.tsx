@@ -15,8 +15,10 @@ function App() {
               <NavbarLogin/>  
           </div>
 
+          <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
+
           <div>
-              {/* Logo */}
+              {/* Logo */} <img src="" alt="Error Svg" />
           </div>
           
           <form className="container-lg d-flex justify-content-center">
