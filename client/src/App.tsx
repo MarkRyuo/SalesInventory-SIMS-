@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="container-fluid">
-          <div>
+          <div className="container-lg">
               {/* Navbar */}
               <NavbarLogin/>  
           </div>
