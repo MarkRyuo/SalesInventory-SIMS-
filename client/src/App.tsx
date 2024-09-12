@@ -11,10 +11,14 @@ function App() {
           <div>
               {/* Navbar */}
           </div>
+
+          <div>
+              {/* Logo */}
+          </div>
           
-          <form className="container-lg">
+          <form className="container-lg d-flex justify-content-center">
               <div className="row">
-                <div className="col">
+                <div className="col-12">
                   <div className="my-2">
                       <label htmlFor="username" className="form-label">Username</label>
                       <input type="text" className="username form-control"/>
@@ -22,7 +26,7 @@ function App() {
                   </div>
                 </div>
                 
-                <div className="col">
+                <div className="col-12">
                     <div className="mb-2">
                       <label htmlFor="password" className="form-label">Password </label>
                       <input type="password" className="password form-control"/>    
