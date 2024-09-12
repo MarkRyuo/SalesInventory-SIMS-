@@ -34,7 +34,7 @@ function App() {
                 </div>
 
                 <div className="col">
-                  <button type="button" className="btn button-primary" onClick={() => {}}>Log in</button> 
+                  <button type="button" className="btn btn-primary" onClick={() => {}}>Log in</button> 
                 </div>
               </div> {/* end row */}
           </form> {/* end container-lg*/}
