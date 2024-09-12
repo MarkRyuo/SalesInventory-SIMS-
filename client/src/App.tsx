@@ -12,7 +12,7 @@ function App() {
       <div className="container-fluid">
           <div>
               {/* Navbar */}
-              <NavbarLogin/>
+              <NavbarLogin/>  
           </div>
 
           <div>

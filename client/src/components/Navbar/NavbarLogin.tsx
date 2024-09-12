@@ -9,8 +9,8 @@ export default function NavbarLogin() {
             <div className="row ">
                 <nav className="navbar col-1 d-none d-sm-block pb-5">
                     <div className="">
-                        <a className="navbar-brand" href="#">
-                            <p><FaBox /></p>
+                        <a className="navbar-brand d-flex justify-content-center m-0" href="#">
+                            <p className="text-center"><FaBox style={{width: "50px", height: "50px"}}/></p>
                             {/* <img src= alt="Bootstrap" width="70" height="70"/> */}
                         </a>
                     </div>
