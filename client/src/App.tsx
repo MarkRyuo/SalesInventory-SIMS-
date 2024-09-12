@@ -1,8 +1,10 @@
 import { IoPersonOutline } from "react-icons/io5";
 import { PiPasswordFill } from "react-icons/pi";
+
 //* App - Login(---)
 
 import NavbarLogin from "./components/Navbar/NavbarLogin"
+
 
 function App() {
   
@@ -18,7 +20,7 @@ function App() {
           <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
 
           <div>
-              {/* Logo */} <img src="" alt="Error Svg" />
+              {/* Logo */} <img src="./" alt="Error Svg" />
           </div>
           
           <form className="container-lg d-flex justify-content-center">
