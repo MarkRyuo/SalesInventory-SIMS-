@@ -3,3 +3,6 @@
 
 ## V1.1
     <p>Log in<p/>
+
+    Installed - npm install react-icons --save
+                
