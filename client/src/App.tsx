@@ -2,6 +2,8 @@
 
 //* App - Login(---)
 
+import NavbarLogin from "./components/Navbar/NavbarLogin"
+
 function App() {
   
 
@@ -10,6 +12,7 @@ function App() {
       <div className="container-fluid">
           <div>
               {/* Navbar */}
+              <NavbarLogin/>
           </div>
 
           <div>
