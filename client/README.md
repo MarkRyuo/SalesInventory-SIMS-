@@ -4,6 +4,9 @@
 ## V1.1.2
     <p> Test Router Navigate to Login</p>
 
+    Installed: 
+        - npm install react-router-dom
+
 
 ### V1.1
     <p>Log in<p/>
