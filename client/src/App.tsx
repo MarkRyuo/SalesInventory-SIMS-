@@ -17,7 +17,7 @@ function App() {
   const navigate = useNavigate() ;
 
   const handlelogin = () => {
-    navigate("/dashboard");
+    navigate("./Dashboard.tsx");
   }
 
 
