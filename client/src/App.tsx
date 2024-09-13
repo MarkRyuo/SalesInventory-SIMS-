@@ -33,7 +33,7 @@ function App() {
                   <div className="row">
                     <div className="col-12">
                       <div className="my-2">
-                          <label htmlFor="username" className="form-label"><IoPersonOutline/>Username</label>
+                          <label htmlFor="username" className="form-label"><IoPersonOutline size={20}/>Username</label>
                           <input type="text" className="username form-control"/>
                           <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
                       </div>
@@ -41,16 +41,14 @@ function App() {
                     
                     <div className="col-12">
                         <div className="mb-2">
-                          <label htmlFor="password" className="form-label"><PiPasswordFill />Password </label>
+                          <label htmlFor="password" className="form-label"><PiPasswordFill size={20}/>Password </label>
                           <input type="password" className="password form-control"/>    
                         </div>
                     </div>
 
                     <div className="col-12 my-2 d-flex justify-content-center">
                       <button type="button" className="btn btn-primary btn-lg" onClick={() => {
-                          return {
-                            
-                          }
+                          
                       }}>Log in</button> 
                     </div> 
 
