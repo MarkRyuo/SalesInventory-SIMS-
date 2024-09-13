@@ -1,6 +1,10 @@
 # Sales Inventory Management System
 
 
+## V1.1.2
+    <p> Test Router Navigate to Login</p>
+
+
 ### V1.1
     <p>Log in<p/>
 
