@@ -25,7 +25,7 @@ function App() {
           </div>
           
           <form className="container-lg d-flex justify-content-center">
-              <div className="box">
+              <div className="formContainer">
                   <div className="row">
                 <div className="col-12">
                   <div className="my-2">
