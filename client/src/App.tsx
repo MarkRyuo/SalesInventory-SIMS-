@@ -48,9 +48,9 @@ function App() {
                             
                           }
                       }}>Log in</button> 
-                    </div>
+                    </div> 
                   </div> {/* end row */}
-              </div>
+              </div>  {/* end formContainer */}
           </form> {/* end container-lg*/}
       </div>
     </>
