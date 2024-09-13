@@ -28,7 +28,10 @@ function App() {
                 <div className="col-12">
                   <div className="my-2">
                       <label htmlFor="username" className="form-label"><IoPersonOutline />Username</label>
-                      <input type="text" className="username form-control"/>
+                      <div className="d-flex justify-content-center">
+                        <input type="text" className="username form-control" style={{width: "300px"}}/>
+
+                      </div>
                       <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
                   </div>
                 </div>
