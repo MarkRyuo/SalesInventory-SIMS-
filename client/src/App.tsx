@@ -16,6 +16,8 @@ function App() {
   
   const navigate = useNavigate() ;
 
+
+
   return (
     <>
       <div className="container-fluid">
@@ -49,11 +51,7 @@ function App() {
                     </div>
 
                     <div className="col-12 my-2 d-flex justify-content-center">
-                      <button type="button" className="btn btn-primary btn-lg" onClick={() => {
-                          return {
-                            
-                          }
-                      }}>Log in</button> 
+                      <button type="button" className="btn btn-primary btn-lg" onClick={}>Log in</button> 
                     </div> 
 
                     <div className="col-12 my-4 d-block d-sm-none">
