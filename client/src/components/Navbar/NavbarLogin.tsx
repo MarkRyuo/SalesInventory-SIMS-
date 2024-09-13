@@ -19,7 +19,7 @@ export default function NavbarLogin() {
                     <p className="lead py-3">Sales Inventory</p>
                 </div>
 
-                <div className="col-2 pt-4">
+                <div className="col-2 pt-3">
                     <a href="http://" className="btn btn-outline-primary d-none d-lg-block fs-6 btn-lg" download={"..."}>Download App</a>
                 </div>
             </div>
