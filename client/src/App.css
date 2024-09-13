@@ -1,7 +1,8 @@
 
 
+/* *Form Container */
 
-.box {
-    /* border: 1px solid; */
+.formContainer {
+    border: 1px solid;
     width: 550px;
 }
