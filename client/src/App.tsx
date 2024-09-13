@@ -25,7 +25,8 @@ function App() {
           </div>
           
           <form className="container-lg d-flex justify-content-center">
-              <div className="row">
+              <div className="box">
+                  <div className="row">
                 <div className="col-12">
                   <div className="my-2">
                       <label htmlFor="username" className="form-label"><IoPersonOutline />Username</label>
@@ -49,6 +50,7 @@ function App() {
                   }}>Log in</button> 
                 </div>
               </div> {/* end row */}
+              </div>
           </form> {/* end container-lg*/}
       </div>
     </>
