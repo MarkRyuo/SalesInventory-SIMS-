@@ -17,7 +17,7 @@ function App() {
               <NavbarLogin/>  
           </div>
 
-          <div style={{width: "75vw", height: "100px"}}></div>{/* Spacing */}
+          <div style={{width: "75vw", height: "130px"}}></div>{/* Spacing */}
 
           <div className="row d-flex justify-content-center">
               {/* Logo */} <img src="/icons8-box.svg" alt="Error Svg" width={"100px"} height={"100px"}/>
