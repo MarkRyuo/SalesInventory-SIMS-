@@ -1,7 +1,7 @@
 # Sales Inventory Management System
 
 
-## V1.1
+### V1.1
     <p>Log in<p/>
 
     Installed: 
