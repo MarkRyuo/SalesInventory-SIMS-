@@ -55,7 +55,7 @@ function App() {
                     </div> 
 
                     <div className="col-12 my-1 d-none d-sm-block">
-                        <a download={"..."}>Download App</a>
+                        <a href="#" download={"..."}>Download App</a>
                     </div>
                   </div> {/* end row */}
               </div>  {/* end formContainer */}
