@@ -1,6 +1,5 @@
 
 import { useNavigate } from "react-router-dom";
-
 {/** Import Icons */}
 import { IoPersonOutline } from "react-icons/io5";
 import { PiPasswordFill } from "react-icons/pi";
@@ -17,7 +16,7 @@ function App() {
   const navigate = useNavigate() ;
 
   const handlelogin = () => {
-    navigate("./Dashboard.tsx");
+    navigate("/dashboard");
   }
 
 
