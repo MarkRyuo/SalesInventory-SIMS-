@@ -54,8 +54,8 @@ function App() {
                       }}>Log in</button> 
                     </div> 
 
-                    <div className="col-12 my-1 d-none d-sm-block">
-                        <a href="#" download={"..."}>Download App</a>
+                    <div className="col-12 my-4 d-block d-sm-none">
+                        <a href="#" download={"..."} style={{textDecoration: "none"}}>Download App</a>
                     </div>
                   </div> {/* end row */}
               </div>  {/* end formContainer */}
